@@ -251,7 +251,7 @@ p {
 }
 
 .social a:hover {
-  color: yellow;
+  color: rgb(255, 204, 0);
 }
 
 .footer-menu {
