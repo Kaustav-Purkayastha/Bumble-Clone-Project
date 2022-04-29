@@ -1,6 +1,6 @@
 # Bumble-Clone-Project 💛
 
-> A clean, beautiful, responsive website clone of Bumble's Home Page!
+> A clean, beautiful, responsive website design clone of Bumble's Home Page!
 
 > https://kaustav-purkayastha.github.io/Bumble-Clone-Project/
 
