@@ -305,6 +305,10 @@ p {
 }
 
 @media (max-width: 768px) {
+  .navbar-brand {
+    padding: 0;
+  }
+
   .hero-image {
     content: url("../images/hero-image-mobile.jpg");
   }
@@ -327,6 +331,10 @@ p {
 
   .footer-menu {
     width: 90%;
+  }
+
+  .carousel-inner {
+    overflow: visible;
   }
 }
 
