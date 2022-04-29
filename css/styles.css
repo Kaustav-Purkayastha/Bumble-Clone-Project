@@ -107,7 +107,7 @@ p {
 }
 
 .hero-body .btn {
-  width: 30%;
+  width: 40%;
 }
 
 /* Features Section */
@@ -189,7 +189,7 @@ p {
 }
 
 .carousel-item-content .card-body {
-  height: 13rem;
+  height: 13.5rem;
   margin: 0 1.25rem;
 }
 
@@ -306,7 +306,7 @@ p {
 
 @media (max-width: 768px) {
   .hero-image {
-    content: url("images/hero-image-mobile.jpg");
+    content: url("../images/hero-image-mobile.jpg");
   }
 
   .features-box .col {
