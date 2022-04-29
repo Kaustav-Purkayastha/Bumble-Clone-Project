@@ -33,5 +33,5 @@ To view all, **[Click Here!](https://kaustav-purkayastha.github.io/Bumble-Clone-
 
 ## Tools Used 🛠️
 
-_[<b>GitHub Pages</b>](https://pages.github.com/) - To host my static website (HTML, CSS).
-_[<b>Bootstrap</b>](https://getbootstrap.com/) - Twitter's free and open-source front-end toolkit to use responsive design components.
+* [<b>GitHub Pages</b>](https://pages.github.com/) - To host my static website (HTML, CSS).
+* [<b>Bootstrap</b>](https://getbootstrap.com/) - Twitter's free and open-source front-end toolkit to use responsive design components.
