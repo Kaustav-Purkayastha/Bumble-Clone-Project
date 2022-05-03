@@ -1,6 +1,6 @@
 # Bumble-Clone-Project 💛
 
-> A clean, beautiful, responsive website design clone of Bumble's Home Page made as a project while learning HTML5, CSS3 & Bootstrap5.
+> A clean, beautiful, responsive website design clone of Bumble's Home Page made as a project while learning HTML5, CSS3 & Bootstrap 5.
 
 > https://kaustav-purkayastha.github.io/Bumble-Clone-Project/
 
@@ -17,7 +17,7 @@
 
 ⚡ Responsive\
 ⚡ Valid HTML5 & CSS3\
-⚡ Bootstrap5\
+⚡ Bootstrap 5 Framework\
 ⚡ Easy to modify
 
 ## Sections 📚
