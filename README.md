@@ -38,7 +38,7 @@
 
 ### 🌐 Checkout the '[Website](https://kaustav-purkayastha.github.io/Bumble-Clone-Project/)'
 
-### ⌨ Checkout the '[Source Code](https://github.com/Kaustav-Purkayastha/Bumble-Clone-Project/blob/main/)'
+### ⌨ Checkout the '[Source Code](https://github.com/Kaustav-Purkayastha/Bumble-Clone-Project/blob/main/index.html)'
 <br/>
 
 
